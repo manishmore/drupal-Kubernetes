@@ -10,8 +10,11 @@ $cd drupal-Kubernetes && ls -al
 -rw-r--r--   1 manish  staff   747 Dec  3 00:16 local-v.yaml
 
 # run the individual commands listed in it:
+
 kubectl create -f drupal-postgres.yaml
+
 kubectl create -f drupal.yaml
+
 kubectl create -f drupal.yaml
 
 If you are running in Minikube, run the following:
