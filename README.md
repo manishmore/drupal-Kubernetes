@@ -22,3 +22,5 @@ If you are running in Minikube, run the following:
 $ minikube service drupal --url
 
 Access the newly deployed Drupal site via http://<IP_ADDRESS>:30080
+
+Send an Issue, a pull request or knock me at Twitter: <a href="https://twitter.com/moremanish">@moremanish</a>
